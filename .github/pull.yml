@@ -1,0 +1,6 @@
+version: "1"
+rules:
+  - base: dev
+    upstream: imssy:dev
+    mergeMethod: merge
+    mergeUnstable: false
