@@ -3,5 +3,3 @@ rules:
   - base: dev
     upstream: imssy:dev
     mergeMethod: hardreset
-    mergeUnstable: true
-    
